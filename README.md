@@ -5,4 +5,4 @@
 * 136. Single Number
 * 226. Invert Binary Tree
 * 260. Single Number III
-* 292. Nim Game
+* 292. Nim Game 
