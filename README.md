@@ -1,11 +1,14 @@
 # leetcode(Start from something new)
 
+## Day4 (Apr.11)
+* 134  Gas Station
+
 ## Day3 (Apr.11)
 * 36  Valid Sudoku
 * 42  Trapping Rain Water
 * 48  Rotate Image
 * 60  Permutation Sequence
-* 66  Plus One	Create
+* 66  Plus One
 * 70  Climbing Stairs
 * 73  Set Matrix Zeroes
 
