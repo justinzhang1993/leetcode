@@ -1,7 +1,7 @@
 # leetcode(Start from something new)
 
-## Day4 (Apr.11)
-* 134  Gas Station
+## Day4 (Apr.12)
+* 134   Gas Station
 
 ## Day3 (Apr.11)
 * 36  Valid Sudoku
