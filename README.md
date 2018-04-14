@@ -1,5 +1,8 @@
 # leetcode(Start from something new)
 
+## Day5 (Apr.11)
+* 135  Candy
+
 ## Day4 (Apr.12)
 * 134   Gas Station
 
