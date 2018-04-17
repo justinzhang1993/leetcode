@@ -1,9 +1,10 @@
 # leetcode(Start from something new)
 
+
 ## Day7 (Apr.16)
 * 217 Contains Duplicate
-* 219Contains Duplicate II
-* 220Contains Duplicate III
+* 219 Contains Duplicate II
+* 220 Contains Duplicate III
 
 ## Day6 (Apr.15)
 * 169 Majority Element
