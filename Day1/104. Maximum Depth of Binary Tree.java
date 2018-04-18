@@ -16,4 +16,4 @@ class Solution {
     }
 }
 
-//if the node does not exist, simply return 0. Otherwise, return the 1+the longer distance of its subtree.
+//if the node does not exist, simply return 0. Otherwise, return the 1+the longer distance of its subtree
