@@ -1,5 +1,9 @@
 # leetcode(Start from something new)
 
+## Day9 (Apr.21)
+* 206 Reverse Linked List
+* 328 Odd Even Linked List
+
 ## Day8 (Apr.18)
 * 238 Product of Array Except Self
 * 289 Game of Life
