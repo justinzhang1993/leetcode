@@ -1,6 +1,6 @@
 # leetcode(Start from something new)
 
-## Day9 (Apr.21)
+## Day9 (Apr.20
 * 206 Reverse Linked List
 * 328 Odd Even Linked List
 
