@@ -1,5 +1,13 @@
 # leetcode(Start from something new)
 
+## Day9 (Apr.20
+* 206 Reverse Linked List
+* 328 Odd Even Linked List
+
+## Day8 (Apr.18)
+* 238 Product of Array Except Self
+* 289 Game of Life
+* 334	Increasing Triplet Subsequence    
 
 ## Day7 (Apr.16)
 * 217 Contains Duplicate
