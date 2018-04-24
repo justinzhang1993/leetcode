@@ -1,5 +1,9 @@
 # leetcode(Start from something new)
 
+## Day11 (Apr.23)
+* 83 Remove Duplicates from Sorted List
+* 84 Remove Duplicates from Sorted List
+
 ## Day10 (Apr.22)
 * 86 Partition List
 
