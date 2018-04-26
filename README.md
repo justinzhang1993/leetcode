@@ -1,8 +1,14 @@
 # leetcode(Start from something new)
 
+## Day12 (Apr.24)
+* 24 Swap Nodes in Pairs
+* 61 Rotate List
+* 19.Remove Nth Node From End of List
+
+
 ## Day11 (Apr.23)
-* 83 Remove Duplicates from Sorted List
-* 84 Remove Duplicates from Sorted List
+* 82 Remove Duplicates from Sorted List
+* 83 Remove Duplicates from Sorted ListII
 
 ## Day10 (Apr.22)
 * 86 Partition List
