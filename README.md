@@ -1,6 +1,13 @@
 # leetcode(Start from something new)
 
-## Day9 (Apr.20
+## Day11 (Apr.23)
+* 83 Remove Duplicates from Sorted List
+* 84 Remove Duplicates from Sorted List
+
+## Day10 (Apr.22)
+* 86 Partition List
+
+## Day9 (Apr.20)
 * 206 Reverse Linked List
 * 328 Odd Even Linked List
 
